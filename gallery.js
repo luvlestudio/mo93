@@ -46,9 +46,9 @@ window.onload = () => {
     Kakao.Share.sendDefault({
       objectType: "feed",
       content: {
-        title: "재호 ♥ 유진의 모바일 청첩장",
+        title: "강산 ♥ 효선의 모바일 청첩장",
         description: "2025년 7월 13일 일요일♡",
-        imageUrl: "https://i.imgur.com/k9WvkaH.png",
+        imageUrl: "https://i.imgur.com/AlY1nI6.png",
         imageWidth: 1200,
         imageHeight: 630,
         link: {
